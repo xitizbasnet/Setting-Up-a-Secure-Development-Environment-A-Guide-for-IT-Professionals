@@ -17,9 +17,6 @@ A secure **version control system** (VCS) is essential for tracking changes, col
 
 > **Tip**: Enable **two-factor authentication (2FA)** on your repository to enhance security. 🛡️
 
-![GitHub Icon](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)  
-*Source: GitHub*
-
 ---
 
 ## 2️⃣ **Set Up Secure SSH Keys for Remote Access** 🔑
@@ -50,9 +47,6 @@ Activate the environment:
 ```
 source myprojectenv/bin/activate
 ```
-
-![Virtual Environment](https://image.shutterstock.com/image-vector/virtual-environment-technology-illustration-260nw-1341777116.jpg)  
-*Source: Shutterstock*
 
 ---
 
