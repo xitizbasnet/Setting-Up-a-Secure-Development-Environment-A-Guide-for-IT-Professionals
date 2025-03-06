@@ -77,9 +77,6 @@ To secure your development environment, follow these steps:
 - **Software**: Keep your OS and development tools up-to-date with the latest security patches. ⚙️
 - **Encryption**: Encrypt sensitive files like **API keys** and **credentials**. Use services like **AWS Secrets Manager**. 🔐
 
-![Security Tools](https://www.smartsheet.com/sites/default/files/IC-security-featured.png)  
-*Source: SmartSheet*
-
 ---
 
 ## 7️⃣ **Implement Code Reviews** 📝
